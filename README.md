@@ -1,4 +1,2 @@
 # Portafolio_DS
-
-En este repositorio se encuentran los enlaces a los distintos proyectos que conforman mi portafolio de Cientifico de Datos.
-
+En este repositorio de encuentran distintos proyectos orientados a la Ciencia de datos.
